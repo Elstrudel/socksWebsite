@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Iaconic';
+  src: url('Laqonic\ 4F\ Unicase\ SemiBold.ttf');
+}
 
 html{
   background-image: url("images/bg.png");
@@ -26,7 +30,7 @@ a {text-decoration: none; }
 }
 
 .pfp{
-  width: 300px; height: 300px; margin: 50px; margin-top: 80px;
+  width: 1000px; height: 333px; margin: 50px; margin-top: 80px;
 }
 
 .logos-box{
@@ -219,6 +223,7 @@ button {
   h1 {
     text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000,
                  1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    font-family: 'Iaconic';
   }
 
   
@@ -240,7 +245,7 @@ button {
 
 
   .testo{
-    font-size: 250%;
+    font-size: 300%;
   }
 
   .content{
@@ -318,11 +323,11 @@ button {
   
   .pfp{
     width: 300px;
-    height: 300px;
+    height: 100px;
   }
   
   .logos-box{
-    width: 80%;
+    width: 100%;
     height: 80%;
   }
 
@@ -447,8 +452,8 @@ button {
   }
   
   .pfp{
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 166px;
   }
   
   .logos-box{
@@ -577,8 +582,8 @@ button {
   }
   
   .pfp{
-    width: 300px;
-    height: 300px;
+    width: 600px;
+    height: 200px;
   }
   
   .logos-box{
@@ -707,8 +712,8 @@ button {
   }
   
   .pfp{
-    width: 300px;
-    height: 300px;
+    width: 700px;
+    height: 233px;
   }
   
   .logos-box{
@@ -767,7 +772,7 @@ button {
   }
   
   .pfp{
-    width: 300px; height: 300px; margin: 50px; margin-top: 80px;
+    width: 1000px; height: 333px; margin: 50px; margin-top: 80px;
   }
   
   .logos-box{
