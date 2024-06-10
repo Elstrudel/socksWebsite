@@ -14,27 +14,35 @@ a {text-decoration: none; }
 }
 
 .ca{
-  background-color:rgb(222, 209, 192); padding: 30px; border:solid; border-color: black;
+  background-color:rgb(222, 209, 192); padding: 30px; border: 4px solid; border-color: black;
 }
 
 .ca-socks{
-  background-color:rgb(222, 209, 192); padding: 30px; border:solid; border-color: black;
+  background-color:rgb(222, 209, 192); padding: 30px; border: 4px solid; border-color: black;
 }
 
 .ca-memes{
-  background-color:rgb(222, 209, 192); padding: 30px; border:solid; border-color: black;
+  background-color:rgb(222, 209, 192); padding: 30px; border:4px solid; border-color: black;
 }
 
 .ca-support{
-  background-color:rgb(222, 209, 192); padding: 30px; border:solid; border-color: black;
+  background-color:rgb(222, 209, 192); padding: 30px; border:4px solid; border-color: black;
 }
 
 .pfp{
-  width: 1000px; height: 333px; margin: 50px; margin-top: 80px;
+  width: 1000px; height: 333px; margin: 50px; margin-top: 80px;     border: 6px solid; border-color: black;
+}
+
+.pfpIg{
+  width: 366px; height: 640px;     border: 5px solid; border-color: black;
+}
+
+.borderButton{
+  border:3px solid #000000;
 }
 
 .logos-box{
-  background-color:rgb(222, 209, 192); padding: 0px; border:solid; border-color: black; 
+  background-color:rgb(222, 209, 192); padding: 0px; border:4px solid; border-color: black; 
 }
 
 .logos-div{
@@ -306,29 +314,40 @@ button {
   }
 
   .ca{
-    width: 90%;
+    width: 90%; border: 2px solid; border-color: black;
   }
 
   .ca-socks{
-    width: 70%;
+    width: 70%; border: 2px solid; border-color: black;
   }
 
   .ca-memes{
-    width: 100%;
+    width: 100%; border: 2px solid; border-color: black;
   }
 
   .ca-support{
-    width: 100%;
+    width: 100%; border: 2px solid; border-color: black;
   }
   
   .pfp{
     width: 300px;
     height: 100px;
+    border: 3px solid; border-color: black;
+  }
+
+  .pfpIg{
+    width: 183px; height: 319px;
+    border: 3px solid; border-color: black;
+  }
+
+  .borderButton{
+    border:2px solid #000000;
   }
   
   .logos-box{
     width: 100%;
     height: 80%;
+    border: 2px solid; border-color: black;
   }
 
   .logos-div{
@@ -455,10 +474,15 @@ button {
     width: 500px;
     height: 166px;
   }
-  
+
+  .pfpIg{
+    width: 238px; height: 414px;
+  }
+
   .logos-box{
     width: 60%;
     height: 100%;
+
   }
 
   .logos-div{
@@ -773,6 +797,10 @@ button {
   
   .pfp{
     width: 1000px; height: 333px; margin: 50px; margin-top: 80px;
+  }
+
+  .pfpIg{
+    width: 366px; height: 640px;
   }
   
   .logos-box{
